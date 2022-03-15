@@ -10,3 +10,5 @@ use const and let . Don't use `var'
 
 use === not ==
 
+Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively so that they will not be undefined.
+
