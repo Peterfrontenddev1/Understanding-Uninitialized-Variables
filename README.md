@@ -8,4 +8,4 @@ How do you fix undefined variables in JavaScript?
 
 use const and let . Don't use `var'
 
-
+use === not ==
