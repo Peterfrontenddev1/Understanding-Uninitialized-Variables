@@ -1,0 +1,2 @@
+# Understanding-Uninitialized-Variables
+undefined
