@@ -7,3 +7,5 @@ When JavaScript variables are declared, they have an initial value of undefined.
 How do you fix undefined variables in JavaScript?
 
 use const and let . Don't use `var'
+
+
